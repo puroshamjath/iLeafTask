@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dell/LIVE_PROJECT/TaskApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/zencode/Workspace/Interview/iLeafTask/iLeafTask/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/dell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a831c6613e386160590718132c0ff64/res/values-land/values-land.xml",
+                    "source": "/Users/zencode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bac4c1409dc18dab6a0e5dbb1e6548f2/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

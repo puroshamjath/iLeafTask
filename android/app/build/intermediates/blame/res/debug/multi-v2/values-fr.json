@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dell/LIVE_PROJECT/TaskApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/zencode/Workspace/Interview/iLeafTask/iLeafTask/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1548f3eee22aaeab60d28eca8aef918b/res/values-fr/values-fr.xml",
+                    "source": "/Users/zencode/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c55cda9ccbb99cb70f49ee5b925fc084/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/dell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a831c6613e386160590718132c0ff64/res/values-fr/values-fr.xml",
+                    "source": "/Users/zencode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bac4c1409dc18dab6a0e5dbb1e6548f2/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
